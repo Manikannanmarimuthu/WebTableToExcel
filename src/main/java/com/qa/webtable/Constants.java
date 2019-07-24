@@ -1,6 +1,7 @@
 package com.qa.webtable;
 
 public interface Constants {
+	
 	String dummy = "//*[@id=\"customers\"]/tbody/tr[";
 	String breCmnyXpath = "//*[@id=\"customers\"]/tbody/tr[";
 	String AfterCmnyXpath = "]/td[1]";
